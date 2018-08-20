@@ -1,9 +1,9 @@
 {
-    "name": "AllenQin/aliyun-php-sdk-imm",
+    "name": "allenqin/aliyun-php-sdk-imm",
     "description": "aliyun openapi imm",
     "authors": [
         {
-            "name": "AllenQin",
+            "name": "allenqin",
             "email": "allenqinhai@gmail.com"
         }
     ],
