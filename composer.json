@@ -1,0 +1,21 @@
+{
+    "name": "AllenQin/aliyun-php-sdk-imm",
+    "description": "aliyun openapi imm",
+    "authors": [
+        {
+            "name": "AllenQin",
+            "email": "allenqinhai@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "imm\\": "src/imm"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    }
+}
+
